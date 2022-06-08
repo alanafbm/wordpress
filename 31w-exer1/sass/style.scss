@@ -1,0 +1,61 @@
+/*!
+Theme Name: 31w-exercice-1 
+Author: Alana Moraes
+Author URI: https://github.com/alanafbm
+Description: Theme de base pour le cours 31W
+Version: 1.0.0
+Tested up to: 5.4
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: 31-W
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Variable 
+	-Couleur
+	-Police
+	-Dimension
+# Generic
+	- Normalize
+	- Box sizing
+
+## Layouts
+# Components
+	- Navigation
+	- Posts and pages
+	- Widgets
+	- Media
+	- Galleries
+# plugins
+	- 
+# Utilities
+	- Accessibility
+	- Alignments
+
+/*--------------------------------------------------------------*/
+
+/* variable
+--------------------------------------------- */
+@import "variable/typography";
+@import "variable/dimension";
+@import "variable/colors";
+
+
+/*--------------------------------------------------------------
+# Generic
+--------------------------------------------------------------*/
+
+/* Normalize
+--------------------------------------------- */
+@import "generic/normalize";
+
+/* Box sizing
+--------------------------------------------- */
+@import "generic/box-sizing";
+
+/*--------------------------------------------------------------
+# Base
+--------------------------------------------------------------*/
+@import "base/base";
