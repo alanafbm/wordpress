@@ -1,12 +1,21 @@
-# Exercice - 1
-## Premier thème et plugin Wordpress
-### Contient 3 commits
+# Cours Gestionnaire de contenu Wordpress
 
-[github-page](https://github.com/alanafbm/31w_exercice1.git)
-Le thème contient 6 fichiers:
-index.php
-style.css
-function.php
-header.php
-footer.php
-readme.md
+## Exercice 1 - Premier thème et plugin Wordpress
+
+### Etudiante: Alana Moraes
+
+[github-page](https://alanafbm.github.io/31w_exercice1/)
+
+#### Le thème contient 12 fichiers:
+- index.php
+- style.css
+- functions.php
+- header.php
+- index.html
+- footer.php
+- screenshot.png
+- readme.md
+- front-page.php
+- single.php
+- style.css.map
+- sass
