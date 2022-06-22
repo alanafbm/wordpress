@@ -2,8 +2,8 @@
 /**
  * Plugin name: Short_2
  * Description: structure d'extension utilisant plusieurs dossiers et permettant d'afficher une adresse
- * Author: Eddy Martin
- * Plugin URI: https://github.com/eddytuto
+ * Author: Alana Moraes
+ * Plugin URI: https://github.com/alanafbm
  */
 function sh2_31w_enqueue()
 {
